@@ -8,7 +8,7 @@ import (
 	log "github.com/golang/glog"
 
 	sched "github.com/mesos/mesos-go/scheduler"
-	"github.com/mesos/cloudfoundry-mesos/scheduler"
+	"github.com/codenrhoden/cloudfoundry-mesos/scheduler"
 
 	"github.com/pivotal-golang/clock"
 	"github.com/pivotal-golang/lager"
